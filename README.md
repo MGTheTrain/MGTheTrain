@@ -29,7 +29,7 @@ Feel free to explore some of my projects listed below.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=wasm-poc&theme=dark)](https://github.com/MGTheTrain/wasm-poc)
 
-### Rendering
+### 3D Graphics and Audio/Video Processing
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=cpp-opengl-renderer&theme=dark)](https://github.com/MGTheTrain/cpp-opengl-renderer)
 
