@@ -5,6 +5,14 @@ Feel free to explore some of my projects listed below.
 
 ## Projects
 
+### Templates
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=dotnet-ddd-cqrs-web-api-starter&theme=dark)](https://github.com/MGTheTrain/dotnet-ddd-cqrs-web-api-starter)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=dotnet-ddd-web-api-starter&theme=dark)](https://github.com/MGTheTrain/dotnet-ddd-web-api-starter)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-machine-learning-starter&theme=dark)](https://github.com/MGTheTrain/python-machine-learning-starter)
+
 ### PoCs
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=ml-ops-poc&theme=dark)](https://github.com/MGTheTrain/ml-ops-poc)
@@ -30,14 +38,6 @@ Feel free to explore some of my projects listed below.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=swift-metal-renderer&theme=dark)](https://github.com/MGTheTrain/swift-metal-renderer)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=swift-ar-with-reality-kit&theme=dark)](https://github.com/MGTheTrain/swift-ar-with-reality-kit)
-
-### Templates
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=dotnet-ddd-cqrs-web-api-starter&theme=dark)](https://github.com/MGTheTrain/dotnet-ddd-cqrs-web-api-starter)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=dotnet-ddd-web-api-starter&theme=dark)](https://github.com/MGTheTrain/dotnet-ddd-web-api-starter)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-machine-learning-starter&theme=dark)](https://github.com/MGTheTrain/python-machine-learning-starter)
 
 ### ML and AI
 
