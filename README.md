@@ -2,8 +2,6 @@
 
 ### PoCs
 
----
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=ml-ops-poc)](https://github.com/MGTheTrain/ml-ops-poc)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=gitops-poc)](https://github.com/MGTheTrain/gitops-poc)
@@ -18,9 +16,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=wasm-poc)](https://github.com/MGTheTrain/wasm-poc)
 
-### Rendering
-
 ---
+
+### Rendering
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=cpp-opengl-renderer)](https://github.com/MGTheTrain/cpp-opengl-renderer)
 
@@ -30,9 +28,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=swift-ar-with-reality-kit)](https://github.com/MGTheTrain/swift-ar-with-reality-kit)
 
-### Templates
-
 ---
+
+### Templates
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=dotnet-ddd-cqrs-web-api-starter)](https://github.com/MGTheTrain/dotnet-ddd-cqrs-web-api-starter)
 
@@ -40,17 +38,17 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-machine-learning-starter)](https://github.com/MGTheTrain/python-machine-learning-starter)
 
-### ML and AI
-
 ---
+
+### ML and AI
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-sample-apps-with-AIaaS-apis)](https://github.com/MGTheTrain/python-sample-apps-with-AIaaS-apis)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-sample-apps-with-transformers)](https://github.com/MGTheTrain/python-sample-apps-with-transformers)
 
-### CLI Tools
-
 ---
+
+### CLI Tools
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=rust-azure-blob-storage-handler)](https://github.com/MGTheTrain/rust-azure-blob-storage-handler)
 
