@@ -47,11 +47,11 @@ Feel free to explore some of my projects listed below.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-sample-apps-with-transformers&theme=dark)](https://github.com/MGTheTrain/python-sample-apps-with-transformers)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-python-object-detection-with-yolo-and-opencv&theme=dark)](https://github.com/MGTheTrain/python-object-detection-with-yolo-and-opencv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-object-detection-with-yolo-and-opencv&theme=dark)](https://github.com/MGTheTrain/python-object-detection-with-yolo-and-opencv)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-python-yolo-training-with-jupyter-notebooks&theme=dark)](https://github.com/MGTheTrain/python-yolo-training-with-jupyter-notebooks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-yolo-training-with-jupyter-notebooks&theme=dark)](https://github.com/MGTheTrain/python-yolo-training-with-jupyter-notebooks)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-python-object-detection-with-ultralytics-ai-models-and-opencv&theme=dark)](https://github.com/MGTheTrain/python-object-detection-with-ultralytics-ai-models-and-opencv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-object-detection-with-ultralytics-ai-models-and-opencv&theme=dark)](https://github.com/MGTheTrain/python-object-detection-with-ultralytics-ai-models-and-opencv)
 
 ### CLI Tools
 
