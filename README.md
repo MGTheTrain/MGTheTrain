@@ -13,6 +13,10 @@ Feel free to explore some of my projects listed below.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-machine-learning-starter&theme=dark)](https://github.com/MGTheTrain/python-machine-learning-starter)
 
+### Web APIs and SPAs
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=e-commerce-service&theme=dark)](https://github.com/MGTheTrain/e-commerce-service)
+
 ### PoCs
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=ml-ops-poc&theme=dark)](https://github.com/MGTheTrain/ml-ops-poc)
