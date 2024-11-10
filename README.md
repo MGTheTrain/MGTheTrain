@@ -52,9 +52,6 @@ As a tech enthusiast, I'm excited to share some of my projects below 🚀
 <a href="https://github.com/MGTheTrain/web3-poc">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=web3-poc&theme=dark&description_lines_count=5" />
 </a>
-<a href="https://github.com/MGTheTrain/cardano-blockchain-sample">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=cardano-blockchain-sample&theme=dark&description_lines_count=5" />
-</a>
 
 ### 3D Graphics and Audio/Video Processing
 
