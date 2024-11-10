@@ -23,7 +23,7 @@ As a tech enthusiast, I'm excited to share some of my projects below 🚀
 </a>
 
 <a href="https://github.com/MGTheTrain/crypto-vault-service">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=crypto-vault-service&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=crypto-vault-service&theme=dark&description_lines_count=4" />
 </a>
 
 ### PoCs
