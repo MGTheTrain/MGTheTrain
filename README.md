@@ -1,7 +1,6 @@
 ## About me
 
-As a tech enthusiast who appreciates open source, I'm excited to contribute to the community 🚀
-Feel free to explore some of my projects listed below. 
+As a tech enthusiast, I'm excited to share some of my projects below 🚀
 
 ## Projects
 
