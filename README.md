@@ -70,8 +70,8 @@ As a tech enthusiast, I'm excited to share some of my projects below 🚀
 
 ### ML and AI
 
-<a href="https://github.com/MGTheTrain/python-sample-apps-with-AIaaS-apis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-sample-apps-with-AIaaS-apis&theme=dark&description_lines_count=4" />
+<a href="https://github.com/MGTheTrain/ai-api-experiments">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=ai-api-experiments&theme=dark&description_lines_count=4" />
 </a>
 <a href="https://github.com/MGTheTrain/python-sample-apps-with-transformers">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-sample-apps-with-transformers&theme=dark&description_lines_count=4" />
