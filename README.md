@@ -1,7 +1,3 @@
-## About me
-
-As a tech enthusiast, I'm excited to share some of my projects below 🚀
-
 ## Projects
 
 ### Templates
