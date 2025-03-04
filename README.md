@@ -48,6 +48,9 @@
 <a href="https://github.com/MGTheTrain/web3-poc">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=web3-poc&theme=dark&description_lines_count=4" />
 </a>
+<a href="https://github.com/MGTheTrain/usd-experiments">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=usd-experiments&theme=dark&description_lines_count=4" />
+</a>
 
 ### 3D Graphics and Audio/Video Processing
 
