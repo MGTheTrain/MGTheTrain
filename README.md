@@ -78,9 +78,6 @@
 <a href="https://github.com/MGTheTrain/python-object-detection-with-yolo-and-opencv">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-object-detection-with-yolo-and-opencv&theme=dark&description_lines_count=5" />
 </a>
-<a href="https://github.com/MGTheTrain/python-yolo-training-with-jupyter-notebooks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-yolo-training-with-jupyter-notebooks&theme=dark&description_lines_count=5" />
-</a>
 <a href="https://github.com/MGTheTrain/python-object-detection-with-ultralytics-ai-models-and-opencv">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MGTheTrain&repo=python-object-detection-with-ultralytics-ai-models-and-opencv&theme=dark&description_lines_count=5" />
 </a>
